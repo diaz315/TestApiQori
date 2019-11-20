@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"usuarios":[
+		{"dniregistrado":"46767345","nombre_consulta":"hermes","apepaterno_consulta":"ramirez","idpaisnacionalidad_consulta":"VEN","codrespuesta":"000", "desrespuesta":"informacion procesada corrctamente","tipomovimiento":"SALIDA","fechamovimiento":"15/10/2019 09:15:22"},
+		{"dniregistrado":"20184904","nombre_consulta":"jose","apepaterno_consulta":"diaz","idpaisnacionalidad_consulta":"VEN","codrespuesta":"000", "desrespuesta":"informacion procesada corrctamente","tipomovimiento":"ENTRADA","fechamovimiento":"15/05/2018 09:15:22"},
+		{"dniregistrado":"10978684","nombre_consulta":"jose","apepaterno_consulta":"diaz","idpaisnacionalidad_consulta":"VEN","codrespuesta":"000", "desrespuesta":"informacion procesada corrctamente","tipomovimiento":"ENTRADA","fechamovimiento":"15/05/2018 09:15:22"},
+		{"dniregistrado":"11793903","nombre_consulta":"ana","apepaterno_consulta":"lara","idpaisnacionalidad_consulta":"VEN","codrespuesta":"000", "desrespuesta":"informacion procesada corrctamente","tipomovimiento":"ENTRADA","fechamovimiento":"15/05/2018 09:15:22"},
+	]
 }
