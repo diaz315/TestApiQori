@@ -1,15 +1,5 @@
 {
   "draw": 3,
   "recordsTotal": 57,
-  "recordsFiltered": 57,
-  "data": [
-    {
-      "first_name": "Gloria",
-      "last_name": "Little",
-      "position": "Systems Administrator",
-      "office": "New York",
-      "start_date": "10th Apr 09",
-      "salary": "$237,500"
-    }
-  ]
+  "recordsFiltered": 57
 }
